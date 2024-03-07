@@ -36,8 +36,6 @@ Authenticate a user.
 }
 ```
 
----
-
 ### POST `/meals`
 
 Create a new meal.
