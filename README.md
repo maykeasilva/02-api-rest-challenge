@@ -5,10 +5,10 @@ In this challenge we will develop an API for daily diet control, the Daily Diet 
 ## Setup
 - Clone the repository;
 - Install dependencies (`npm install`);
-- Setup SQLite (`npm run knex -- migrate:latest`)
 - Copy `.env.example` file (`cp .env.example .env`);
+- Setup SQLite (`npm run knex -- migrate:latest`);
 - Run application (`npm run dev`);
-- Test it! (I personally recommend testing with [Hoppscotch](https://hoppscotch.io/) or [Bruno API Client](https://www.usebruno.com/)).
+- Test it! (I personally recommend testing with [Hoppscotch](https://hoppscotch.io/) or [Bruno API Client](https://www.usebruno.com/));
 
 ## HTTP
 
